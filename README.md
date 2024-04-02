@@ -1,5 +1,5 @@
 <html>
 <head>
-<h1> Hello world<\h1>
-<\head>
-<\html>
+<h1> Hello world</h1>
+</head>
+</html>
